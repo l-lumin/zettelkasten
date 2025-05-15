@@ -1,6 +1,8 @@
 ---
 author: Vaclav Smil
 title: How the World Really Works
+tags:
+  - theoretical
 ---
 1. Understanding Energy
 2. Understanding Food Production
