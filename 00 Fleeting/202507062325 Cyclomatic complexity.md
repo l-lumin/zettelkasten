@@ -4,13 +4,17 @@ Cyclomatic Complexity (CC) is a software metric used to measure the complexity o
 
 ## Formula
 
-The a single function, CC is calculated using the formula:
+For a single function, CC is calculated using the control flow graph with this formula:
 $CC = E - N + 2$
 
 Where:
 
 - E = the number of edges in the control flow graph
 - N = the number of nodes in the control flow graph
+
+A simpler way to think about it is:
+`CC = D + 1`
+Where D is the number of decision points (e.g., `if`, `while`, `for`, `case`).
 
 Example:
 
