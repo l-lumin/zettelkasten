@@ -5,4 +5,4 @@ tags:
   - practical
 ---
 [[4 Levels of Reading]]
-[[202505111245 The Four Basic Questions a Reader Asks]]
+[[The Four Basic Questions a Reader Asks]]

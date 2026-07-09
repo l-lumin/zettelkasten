@@ -13,4 +13,5 @@
 ### Superficial Reading
 - On your first read-through, read the book from beginning to end without stopping to look up things you don’t understand.
 
-[[202505090610 4 Levels of Reading]]
+---
+**Source:** [[4 Levels of Reading]]
