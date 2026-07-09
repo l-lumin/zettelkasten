@@ -5,4 +5,4 @@ tags:
   - philosophy
   - theoretical
 ---
-[[202505081000 Solipsism]]
+[[Solipsism]]

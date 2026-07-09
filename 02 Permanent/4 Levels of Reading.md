@@ -3,3 +3,7 @@
 2. Inspectional Reading: Skimming or  pre-reading to get the main idea. Learn everything that the surface alone can teach you - like checking table of contents, chapter summaries, and headings.
 3. Analytical Reading: Reading deeply to fully understand the book. Ask questions, look up unfamiliar ideas, and break down arguments.
 4. Syntopical Reading: Reading multiple books on the same topics, comparing their ideas, and forming your own understanding that go beyond any single book.
+
+---
+**Source:** [[How to Read a Book]]
+**See Also:** [[Inspectional Reading]]
