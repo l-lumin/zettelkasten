@@ -6,8 +6,6 @@
 - This is **technically partitioned architecture**, meaning components area separated based on their **technical role** (e.g., UI, business logic, data access), rather than by domain logic
 - Promotes separation of concerns, making the system easier to manage and understand
 
-[[202507101250 Layered Architecture.excalidraw]]
-
 ## Typical Layers
 
 Although there's no strict rule, mostly layered architecture use the following four layers:
@@ -55,3 +53,5 @@ Although there's no strict rule, mostly layered architecture use the following f
 - Tight coupling between layers: A failure in one layer (e.g., database) can cause the whole application to fail
 - High mean time to recover (MTTR): Recovery from failure might take longer
 - May not scale well not highly distributed or performance-intensive systems
+
+Unlike the open boundaries in [[The Unix Philosophy]], Layered Architecture enforces strict, isolated boundaries between tiers.
